@@ -39,7 +39,8 @@ Switch to drawing mode from design mode
 ## OUTPUT
 [EX NO 5.1;DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW (1).pdf](https://github.com/user-attachments/files/35324665/EX.NO.5.1.DESIGN.THE.3D.MODEL.AS.PROVIDED.AND.CONVERT.TO.ORTHOGRAPHIC.VIEW.1.pdf)
 
-<img width="897" height="640" alt="Screenshot 2026-11-24 152456" src="https://github.com/user-attachments/assets/3992034e-2be3-44a5-80b8-dc2718243a0a" />
+<img width="1291" height="855" alt="Screenshot 2026-11-24 153328" src="https://github.com/user-attachments/assets/c29157ab-1b00-42e9-bc75-94a75cfd138d" />
+
 
 
 
